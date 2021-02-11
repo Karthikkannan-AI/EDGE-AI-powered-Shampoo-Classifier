@@ -27,7 +27,7 @@
 
 ## Solution ##
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/resources/Shampoo%20Classifier.png">
 
 - - - -
 
