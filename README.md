@@ -39,7 +39,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-
+<a href="https://youtu.be/QHZSab2A3E0" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/resources/Shampoo%20Classification.png"/></a> 
 
 - - - -
 
