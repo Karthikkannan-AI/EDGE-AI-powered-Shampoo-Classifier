@@ -2,11 +2,11 @@
 
 ## Table of Contents ##
 
-* [About the Project]()
-  * [AI on the Edge]()
-  * [Application Usecases]()
+* [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/README.md#solution)
-  * [Data Collection]()
+  * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/README.md#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/README.md#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/README.md#conclusion)
@@ -16,9 +16,9 @@
 - - - -
 ## About the Project ##
 
-In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Soap.
+In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Shampoo.
 
-We have trained a Deep Learning-based Classification model to identify different types and makes of Soap.
+We have trained a Deep Learning-based Classification model to identify different types and makes of Shampoo.
 
 The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time Inference. 
 
@@ -54,8 +54,8 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 ### Data Collection ###
 
-We have chosen Soap from foru different manufacturers. 
-We have taken thousands of Images of the Soap in different lighting conditions, different orientations, and different background environments.
+We have chosen Shampoo from two different manufacturers. 
+We have taken thousands of Images of the Shampoo in different lighting conditions, different orientations, and different background environments.
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/resources/Shampoo%20Classifier.png">
 
