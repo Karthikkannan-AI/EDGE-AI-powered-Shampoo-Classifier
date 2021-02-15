@@ -14,6 +14,7 @@
 * [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Shampoo-Classifier/blob/main/README.md#rebounding-from-covid-19)
 
 - - - -
+
 ## About the Project ##
 
 In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Shampoo.
