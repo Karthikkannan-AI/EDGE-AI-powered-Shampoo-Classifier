@@ -1,4 +1,4 @@
-# EDGE-AI-powered-Shampoo-Classifier
+# EDGE AI powered Shampoo Classifier
 
 ## Table of Contents ##
 
